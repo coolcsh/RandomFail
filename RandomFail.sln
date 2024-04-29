@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34818.151
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FailApi", "FailApi\FailApi.csproj", "{319C15AC-D3E8-4145-8642-F81A562E4BF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetryApp", "RetryApp\RetryApp.csproj", "{043D5991-098F-4817-8867-571E19029879}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{319C15AC-D3E8-4145-8642-F81A562E4BF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{319C15AC-D3E8-4145-8642-F81A562E4BF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{319C15AC-D3E8-4145-8642-F81A562E4BF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{319C15AC-D3E8-4145-8642-F81A562E4BF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{043D5991-098F-4817-8867-571E19029879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{043D5991-098F-4817-8867-571E19029879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{043D5991-098F-4817-8867-571E19029879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{043D5991-098F-4817-8867-571E19029879}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7849A2C-39A8-4273-8B63-D91F87A769E0}
+	EndGlobalSection
+EndGlobal
